@@ -1,0 +1,15 @@
+# 数据文件一律不上传
+data/
+*.csv
+*.tsv
+*.zip
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / 编辑器
+.idea/
+.vscode/
